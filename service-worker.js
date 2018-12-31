@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/powergridleveleditor/precache-manifest.723ba8787615aa212905ece6d5ec4b49.js"
+  "/powergridleveleditor/precache-manifest.dbc7ee968e752064c0387c0aa3579956.js"
 );
 
 workbox.clientsClaim();

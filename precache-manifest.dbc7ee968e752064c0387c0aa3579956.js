@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/powergridleveleditor/static/css/main.0e0929bc.chunk.css"
   },
   {
-    "revision": "aadff9d3bd2e9ae4e193c40713eeefe6",
+    "revision": "31dda0469693eaae326967d8879b6b3a",
     "url": "/powergridleveleditor/index.html"
   }
 ];
