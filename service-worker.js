@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/powergrid-level-editor/precache-manifest.2fd61610b847fbdc1c8955dbe8d7f7ff.js"
+  "/powergridleveleditor/precache-manifest.723ba8787615aa212905ece6d5ec4b49.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/powergrid-level-editor/index.html", {
+workbox.routing.registerNavigationRoute("/powergridleveleditor/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
