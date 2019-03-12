@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/powergridleveleditor/static/js/runtime~main.27f3c079.js"
   },
   {
-    "revision": "e0f84cc12c94ab33a88c",
-    "url": "/powergridleveleditor/static/js/main.e0f84cc1.chunk.js"
+    "revision": "9e93a7abdd278716555f",
+    "url": "/powergridleveleditor/static/js/main.9e93a7ab.chunk.js"
   },
   {
     "revision": "b662fa0f81ef8c5d191c",
     "url": "/powergridleveleditor/static/js/1.b662fa0f.chunk.js"
   },
   {
-    "revision": "e0f84cc12c94ab33a88c",
+    "revision": "9e93a7abdd278716555f",
     "url": "/powergridleveleditor/static/css/main.0e0929bc.chunk.css"
   },
   {
-    "revision": "40111b74d80d0277d80178eef7b1529d",
+    "revision": "a1ae319654f999ceeb182f26869d66a4",
     "url": "/powergridleveleditor/index.html"
   }
 ];
